@@ -1,5 +1,4 @@
 # C++ 언어
-> studying about C++ language from Korea National Open University
 
 C++ 프로그래밍 언어 사용 툴 : **Visual Studio 2019**
 
