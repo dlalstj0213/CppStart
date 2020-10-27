@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="step_00.cpp">
+    <ClCompile Include="structCircle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="step_01.cpp">
+    <ClCompile Include="classCircle.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
