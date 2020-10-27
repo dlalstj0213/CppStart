@@ -138,7 +138,7 @@
         ......
     };
     ```
-  - 구조체 예 (활용 예제 참조: [step_00.cpp](https://github.com/dlalstj0213/CppStart/blob/master/study_02/step_00.cpp))
+  - 구조체 예 (활용 예제 참조: [step_00.cpp](https://github.com/dlalstj0213/CppStart/blob/master/_02_basic_2/structCircle.cpp))
     ```c++
     // 2차원 좌표
     struct C2dType{
@@ -153,7 +153,7 @@
     ```
 - **클래스란?**
   - 표현 대상이 어떤 일을 할 수 있는가(**행위**)와 어떤 데이터를 저장하는가(**속성**)를 하나의 단위로 묶어 선언한 것
-  - ex) '원' 클래스 (활용 예제 참조: [step_01.cpp](https://github.com/dlalstj0213/CppStart/blob/master/study_02/step_01.cpp))
+  - ex) '원' 클래스 (활용 예제 참조: [step_01.cpp](https://github.com/dlalstj0213/CppStart/blob/master/_02_basic_2/classCircle.cpp))
     |클래스||
     |:---:|---|
     |행위|init: 원의 초기화<br>area: 원의 면적을 계산<br>chkOverlap: 다른 원과 중첩 여부 검사<br>display: 원의 정보 디스플레이|
