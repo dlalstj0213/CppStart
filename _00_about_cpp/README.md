@@ -199,6 +199,6 @@ int main()
 
 ---
 
-[^TOP](#about-c)
+[^TOP](#)
 
 ---
