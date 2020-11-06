@@ -1,4 +1,4 @@
-[<< BACK](https://github.com/dlalstj0213/CppStart)
+[⏪BACK](https://github.com/dlalstj0213/CppStart)
 
 ---
 
@@ -426,6 +426,6 @@
     ```
 ---
 
-[^TOP](#)
+[⏫TOP](#)
 
 ---
